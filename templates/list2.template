@@ -1,7 +1,7 @@
 <div class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1 gutter-zero">
 	<!-- Start Hover -->
-    <a href="/vtour/tour.html?startscene=scene_<%= item.url %>" class="hovereffect  animated fadeIn">
-        <img class="img-responsive" src="../dist/images/planet/<%= item.name %>" alt="<%= item.title %>">
+    <a href="vtour/tour.html?startscene=scene_<%= item.url %>" class="hovereffect  animated fadeIn">
+        <img class="img-responsive" src="dist/images/planet/<%= item.name %>" alt="<%= item.title %>">
             <div class="overlay">
                 <h2><%= item.title %></h2>
             </div>

@@ -8,7 +8,7 @@
 				<h3 class="title">Lab Jaringan Komputer</h3>
 				<img class="icon-course img-responsive" src="dist/images/course/jarkom.png" alt="icon">
 				<div class="caption">
-			        <a href="/vtour/tour.html?startscene=scene_Lab_Jaringan_Komputer" class="btn btn-primary" role="button">KUNJUNGI</a> 
+			        <a href="vtour/tour.html?startscene=scene_Lab_Jaringan_Komputer" class="btn btn-primary" role="button">KUNJUNGI</a> 
 			    </div>
 			</div>
 		</div>
@@ -17,7 +17,7 @@
 				<h3 class="title">Lab Multimedia</h3>
 				<img class="icon-course img-responsive" src="dist/images/course/mm.png" alt="icon">
 				<div class="caption">
-			        <a href="/vtour/tour.html?startscene=scene_Lab_Multimedia" class="btn btn-primary" role="button">KUNJUNGI</a> 
+			        <a href="vtour/tour.html?startscene=scene_Lab_Multimedia" class="btn btn-primary" role="button">KUNJUNGI</a> 
 			    </div>				
 			</div>
 		</div>
@@ -26,7 +26,7 @@
 				<h3 class="title">Lab Rekayasa Perangkat Lunak</h3>
 				<img class="icon-course img-responsive" src="dist/images/course/rpl.png" alt="icon">
 				<div class="caption">
-			        <a href="/vtour/tour.html?startscene=scene_A7_Lab_RPL" class="btn btn-primary" role="button">KUNJUNGI</a> 
+			        <a href="vtour/tour.html?startscene=scene_A7_Lab_RPL" class="btn btn-primary" role="button">KUNJUNGI</a> 
 			    </div>				
 			</div>
 		</div>
@@ -35,7 +35,7 @@
 				<h3 class="title">Lab Sistem Informasi</h3>
 				<img class="icon-course img-responsive" src="dist/images/course/si.png" alt="icon">
 				<div class="caption">
-			        <a href="/vtour/tour.html?startscene=scene_Lab_Sistem_Informasi" class="btn btn-primary" role="button">KUNJUNGI</a> 
+			        <a href="vtour/tour.html?startscene=scene_Lab_Sistem_Informasi" class="btn btn-primary" role="button">KUNJUNGI</a> 
 			    </div>				
 			</div>
 		</div>
