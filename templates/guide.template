@@ -44,7 +44,7 @@
                     <ol>
                         <li>
                             Buka halaman utama dengan mengklik menu "Home" atau klik
-                            <a class="btn-link" href="/">
+                            <a class="btn-link" href="./">
                                 disini
                             </a>
                         </li>
