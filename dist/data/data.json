@@ -2,56 +2,56 @@
   {
     "title": "Gedung Fakultas Teknik",
     "name": "Engineering Faculty Building",
-    "description": "Anda sekarang berada di halaman depan gedung Fakultas Teknik Universitas Negeri Surabaya. Dimana sebelumnya gedung ini di gunakan sebagai pusat rektorat Universitas Negeri Surabaya, tapi pada akhir tahun 2016 pusat rektorat dipindahkan ke kampus lidahwetan yang kemudian gedung ini menjadi milik Fakultas Teknik"
+    "description": "You now at front yard of Engineering Faculty Building of UNESA. A few years ago this building is used as head office of university, but in the last year of 2016 head office of university location is moved into lidahwetan branch and then this building became Engineering Faculty's property."
   },
   {
     "title": "Fakultas Lantai 1",
     "name": "Engineering Faculty, Floor 1",
-    "description": "Anda sekarang berada di lantai 1 gedung Fakultas Teknik Universitas Negeri Surabaya."
+    "description": "You now at floor 1 of Engineering Faculty of Unesa."
   },
   {
     "title": "A1 Lantai 1",
     "name": "A1, Floor 1",
-    "description": "Anda sekarang berada di lantai 1 gedung A1 Jurusan Teknik Informatika, Fakultas Teknik."
+    "description": "You now at Floor 1 of Informatics Engineering building."
   },
   {
     "title": "A3 Lantai 1",
     "name": "A3, Floor 1",
-    "description": "Anda sekarang berada di lantai 1 gedung A3 Jurusan Pendidikan Kesejahteraan Keluarga, Fakultas Teknik."
+    "description": "You now at Floor 1 of Family Welfare Education building."
   },
   {
     "title": "A4 Lantai 1",
     "name": "A4, Floor 1",
-    "description": "Anda sekarang berada di lantai 1 gedung A4 Jurusan Teknik Sipil, Fakultas Teknik."
+    "description": "You now at Floor 1 of Civil Engineering building."
   },
   {
     "title": "A5 Lantai 1",
     "name": "A5, Floor 1",
-    "description": "Anda sekarang berada di lantai 1 gedung A5 Jurusan Teknik Elektro, Fakultas Teknik."
+    "description": "You now at Floor 1 of Electro Engineering building."
   },
   {
     "title": "A6 Lantai 1",
     "name": "A6, Floor 1",
-    "description": "Anda sekarang berada di lantai 1 gedung A6 Jurusan Teknik Mesin, Fakultas Teknik."
+    "description": "You now at Floor 1 of Machine Engineering building."
   },
   {
     "title": "A7 Lab RPL",
     "name": "Software Engineer Laboratory",
-    "description": "Anda sekarang berada di ruang Lab Rekayasa Perangkat Lunak milik Teknik Informatika. Yang dimana lab ini digunakan bagi mahasiswa yang menempuh mata kuliah penjurusan Rekayasa Perangkat Lunak."
+    "description": "You now at Software Engineer Laboratory owned by Informatics Engineering. This laboratory is mainly used by student who take on software engineer course."
   },
   {
     "title": "Lab Multimedia",
     "name": "Multimedia Laboratory",
-    "description": "Anda sekarang berada di ruang Lab Multimedia milik Teknik Informatika. Yang dimana lab ini digunakan bagi mahasiswa yang menempuh mata kuliah Multimedia."
+    "description": "You now at Multimedia Laboratory owned by Informatics Engineering. This laboratory is mainly used by student who take on multimedia course."
   },
   {
     "title": "Lab Sistem Informasi",
     "name": "System Information Laboratory",
-    "description": "Anda sekarang berada di ruang Lab Sistem Informasi milik Teknik Informatika. Yang dimana lab ini digunakan bagi mahasiswa yang menempuh mata kuliah penjurusan Sistem Informasi."
+    "description": "You now at System Information Laboratory owned by Informatics Engineering. This laboratory is mainly used by student who take on system information course."
   },
   {
     "title": "Lab Jaringan Komputer",
     "name": "Computer Network Laboratory",
-    "description": "Anda sekarang berada di ruang Lab Jaringan Komputer milik Teknik Informatika. Yang dimana lab ini digunakan bagi mahasiswa yang menempuh mata kuliah penjurusan Jaringan Komputer."
+    "description": "You now at Computer Network Laboratory owned by Informatics Engineering. This laboratory is mainly used by student who take on computer network course."
   }
 ]

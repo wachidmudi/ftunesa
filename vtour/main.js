@@ -45,7 +45,7 @@ function call_func() {
     html5_title();
     ajax_get('../dist/data/data.json', function(data) {
         document.getElementById("title").innerHTML = 'Untitled';
-        document.getElementById("description").innerHTML = 'Belum ada deskripsi.';
+        document.getElementById("description").innerHTML = 'No description yet.';
 
         var title = krpano.get("scene[get(xml.scene)].title");
         console.log(title);
