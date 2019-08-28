@@ -1,41 +1,41 @@
 <div class="container text-center course  animated fadeIn">
 	<div class="row">
-		<h1><strong>Jurusan Teknik Informatika</strong></h1>
+		<h1><strong>Department of Informatics Engineering</strong></h1>
 		<br>
 		<br>
 		<div class="col-md-3 col-sm-6 col-sm-push-0 col-xs-8 col-xs-push-2">
 			<div class="thumbnail">
-				<h3 class="title">Lab Jaringan Komputer</h3>
+				<h3 class="title">Computer Network Laboratory</h3>
 				<img class="icon-course img-responsive" src="dist/images/course/jarkom.png" alt="icon">
 				<div class="caption">
-			        <a href="vtour/tour.html?startscene=scene_Lab_Jaringan_Komputer" class="btn btn-primary" role="button">KUNJUNGI</a> 
+			        <a href="vtour/tour.html?startscene=scene_Lab_Jaringan_Komputer" class="btn btn-primary" role="button">Visit</a> 
 			    </div>
 			</div>
 		</div>
 		<div class="col-md-3 col-sm-6 col-sm-push-0 col-xs-8 col-xs-push-2">
 			<div class="thumbnail">
-				<h3 class="title">Lab Multimedia</h3>
+				<h3 class="title">Multimedia Laboratory</h3>
 				<img class="icon-course img-responsive" src="dist/images/course/mm.png" alt="icon">
 				<div class="caption">
-			        <a href="vtour/tour.html?startscene=scene_Lab_Multimedia" class="btn btn-primary" role="button">KUNJUNGI</a> 
+			        <a href="vtour/tour.html?startscene=scene_Lab_Multimedia" class="btn btn-primary" role="button">Visit</a> 
 			    </div>				
 			</div>
 		</div>
 		<div class="col-md-3 col-sm-6 col-sm-push-0 col-xs-8 col-xs-push-2">
 			<div class="thumbnail">
-				<h3 class="title">Lab Rekayasa Perangkat Lunak</h3>
+				<h3 class="title">Software Engineer Laboratory</h3>
 				<img class="icon-course img-responsive" src="dist/images/course/rpl.png" alt="icon">
 				<div class="caption">
-			        <a href="vtour/tour.html?startscene=scene_A7_Lab_RPL" class="btn btn-primary" role="button">KUNJUNGI</a> 
+			        <a href="vtour/tour.html?startscene=scene_A7_Lab_RPL" class="btn btn-primary" role="button">Visit</a> 
 			    </div>				
 			</div>
 		</div>
 		<div class="col-md-3 col-sm-6 col-sm-push-0 col-xs-8 col-xs-push-2">
 			<div class="thumbnail">
-				<h3 class="title">Lab Sistem Informasi</h3>
+				<h3 class="title">System Information Laboratory</h3>
 				<img class="icon-course img-responsive" src="dist/images/course/si.png" alt="icon">
 				<div class="caption">
-			        <a href="vtour/tour.html?startscene=scene_Lab_Sistem_Informasi" class="btn btn-primary" role="button">KUNJUNGI</a> 
+			        <a href="vtour/tour.html?startscene=scene_Lab_Sistem_Informasi" class="btn btn-primary" role="button">Visit</a> 
 			    </div>				
 			</div>
 		</div>

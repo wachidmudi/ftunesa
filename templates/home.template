@@ -10,7 +10,7 @@
                     Virtual Tour
                 </h1>
                 <h2 class="text-left animated fadeInLeftBig">
-                    Fakultas Teknik -
+                    Engineering Faculty of
                     <strong>
                         UNESA
                     </strong>
@@ -32,7 +32,7 @@
                     <a class="text-muted" href="/#/petunjuk">
                         <img class="img-responsive center-block" src="dist/images/360.png" style="width: 120px;" alt="Play"/>
                         <h4 class="text-center" style="padding-top: 10%;">
-                            Lihat Petunjuk
+                            See Guide
                         </h4>
                     </a>
                 </div>

@@ -1,46 +1,57 @@
 [
   {
     "title": "Gedung Fakultas Teknik",
+    "name": "Engineering Faculty Building",
     "description": "Anda sekarang berada di halaman depan gedung Fakultas Teknik Universitas Negeri Surabaya. Dimana sebelumnya gedung ini di gunakan sebagai pusat rektorat Universitas Negeri Surabaya, tapi pada akhir tahun 2016 pusat rektorat dipindahkan ke kampus lidahwetan yang kemudian gedung ini menjadi milik Fakultas Teknik"
   },
   {
     "title": "Fakultas Lantai 1",
+    "name": "Engineering Faculty, Floor 1",
     "description": "Anda sekarang berada di lantai 1 gedung Fakultas Teknik Universitas Negeri Surabaya."
   },
   {
     "title": "A1 Lantai 1",
+    "name": "A1, Floor 1",
     "description": "Anda sekarang berada di lantai 1 gedung A1 Jurusan Teknik Informatika, Fakultas Teknik."
   },
   {
     "title": "A3 Lantai 1",
+    "name": "A3, Floor 1",
     "description": "Anda sekarang berada di lantai 1 gedung A3 Jurusan Pendidikan Kesejahteraan Keluarga, Fakultas Teknik."
   },
   {
     "title": "A4 Lantai 1",
+    "name": "A4, Floor 1",
     "description": "Anda sekarang berada di lantai 1 gedung A4 Jurusan Teknik Sipil, Fakultas Teknik."
   },
   {
     "title": "A5 Lantai 1",
+    "name": "A5, Floor 1",
     "description": "Anda sekarang berada di lantai 1 gedung A5 Jurusan Teknik Elektro, Fakultas Teknik."
   },
   {
     "title": "A6 Lantai 1",
+    "name": "A6, Floor 1",
     "description": "Anda sekarang berada di lantai 1 gedung A6 Jurusan Teknik Mesin, Fakultas Teknik."
   },
   {
     "title": "A7 Lab RPL",
+    "name": "Software Engineer Laboratory",
     "description": "Anda sekarang berada di ruang Lab Rekayasa Perangkat Lunak milik Teknik Informatika. Yang dimana lab ini digunakan bagi mahasiswa yang menempuh mata kuliah penjurusan Rekayasa Perangkat Lunak."
   },
   {
     "title": "Lab Multimedia",
+    "name": "Multimedia Laboratory",
     "description": "Anda sekarang berada di ruang Lab Multimedia milik Teknik Informatika. Yang dimana lab ini digunakan bagi mahasiswa yang menempuh mata kuliah Multimedia."
   },
   {
     "title": "Lab Sistem Informasi",
+    "name": "System Information Laboratory",
     "description": "Anda sekarang berada di ruang Lab Sistem Informasi milik Teknik Informatika. Yang dimana lab ini digunakan bagi mahasiswa yang menempuh mata kuliah penjurusan Sistem Informasi."
   },
   {
     "title": "Lab Jaringan Komputer",
+    "name": "Computer Network Laboratory",
     "description": "Anda sekarang berada di ruang Lab Jaringan Komputer milik Teknik Informatika. Yang dimana lab ini digunakan bagi mahasiswa yang menempuh mata kuliah penjurusan Jaringan Komputer."
   }
 ]

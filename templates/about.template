@@ -8,8 +8,8 @@
 	</div>
 	<div class="row" style="padding-top: 5%; padding-bottom: 5%;">
 		<div class="col-md-8 col-md-offset-2 animated fadeIn">
-			<h3>Tentang Virtual Tour Fakultas Teknik Unesa</h3>
-			<p>Gambar-gambar terakhir di perbarui pada 31 Oktober 2017</p>
+			<h3>About Virtual Tour, Engineering Faculty of Unesa</h3>
+			<p>Last updates of images on October 31, 2017</p>
 		</div>
 	</div>
 	<div class="row" style="padding-top: 5%; padding-bottom: 5%;">
@@ -18,14 +18,14 @@
 		</div>
 		<div class="col-md-4 col-md-offset-0 col-sm-offset-3 col-xs-offset-2 animated fadeIn">
 
-			<h3>Tentang Pembuat</h3>
+			<h3>About Developer</h3>
 			<ul class="list-unstyled">
-				<li><h4>Nama: Wachid Mudi Waluyo</h4></li>
+				<li><h4>Name: Wachid Mudi Waluyo</h4></li>
 				<li><h4>NIM: 13050974073</h4></li>
-				<li><h4>Jurusan: Teknik Informatika</h4></li>
-				<li><h4>Prodi: Pendidikan Teknik Informatika</h4></li>
-				<li><h4>Perguruan Tinggi: Universitas Negeri Surabaya</h4></li>
-				<li><h4>Dosen Pembimbing: Setya Chendra Wibawa, S.Pd., M.T.</h4></li>
+				<li><h4>Department: Informatics Engineering</h4></li>
+				<li><h4>Program: Education of Information Technology</h4></li>
+				<li><h4>Unversity: State University of Surabaya</h4></li>
+				<li><h4>Supervisor: Setya Chendra Wibawa</h4></li>
 			</ul>
 		</div>
 	</div>

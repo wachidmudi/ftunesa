@@ -1,26 +1,26 @@
 [
   {
-    "title": "Gedung Fakultas Teknik",
+    "title": "Engineering Faculty Building",
     "url": "Fakultas_Lantai_1.tiles/mobile_f.jpg"
   },
   {
-    "title": "Teknik Informatika Lantai 1",
+    "title": "Informatics Engineering, Floor 1",
     "url": "A1_Lantai_1.tiles/mobile_f.jpg"
   },
   {
-    "title": "PKK Lantai 1",
+    "title": "Family Welfare Education, Floor 1",
     "url": "A3_Lantai_1.tiles/mobile_f.jpg"
   },
   {
-    "title": "Teknik Sipil Lantai 1",
+    "title": "Civil Engineering, Floor 1",
     "url": "A4_Lantai_1.tiles/mobile_f.jpg"
   },
   {
-    "title": "Teknik Elektro Lantai 1",
+    "title": "Electro Engineering, Floor 1",
     "url": "A5_Lantai_1.tiles/mobile_f.jpg"
   },
   {
-    "title": "Teknik Mesin Lantai 1",
+    "title": "Machine Engineering, Floor 1",
     "url": "A6_Lantai_1.tiles/mobile_f.jpg"
   } 
 ]

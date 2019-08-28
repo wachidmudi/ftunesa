@@ -7,7 +7,7 @@
             </a>
             <a href="#tutorial">
                 <h4>
-                    Bagaimana Penggunaanya?
+                    How to use?
                 </h4>
             </a>
         </div>
@@ -18,7 +18,7 @@
             </a>
             <a href="#browser">
                 <h4>
-                    Dukungan Browser
+                    Browser Support
                 </h4>
             </a>
         </div>
@@ -29,63 +29,63 @@
             </a>
             <a href="#setting">
                 <h4>
-                    Pengaturan
+                    Configuration
                 </h4>
             </a>
         </div>
         <div class="col-md-12" id="tutorial">
             <h2 class="text-left">
                 <strong>
-                    Bagaimana Penggunaanya?
+                    How to use?
                 </strong>
             </h2>
             <ul style="list-style-type: none; padding-top: 10px;">
                 <li>
                     <ol>
                         <li>
-                            Buka halaman utama dengan mengklik menu "Home" atau klik
+                            Open the homepage by clicking "Home" menu or click 
                             <a class="btn-link" href="./">
-                                disini
+                                here
                             </a>
                         </li>
                         <li>
-                            Klik tombol "PLAY", <a href="vtour/tour.html"><img style="max-width: 100px;" src="dist/images/play_guide.png" alt="Play"></a>
+                            Click "PLAY" button, <a href="vtour/tour.html"><img style="max-width: 100px;" src="dist/images/play_guide.png" alt="Play"></a>
                         </li>
                         <li>
-                            Kemudian anda akan secara otomatis diarahkan ke Virtual Tour Fakultas Teknik UNESA
+                            Then you will automatically redirected to homepage of Virtual Tour
                         </li>
                     </ol>
                 </li>
                 <li style="padding-top: 20px; padding-bottom: 20px;">
-                    Note* Jika anda tidak bisa mengakses virtual tour, silahkan pergi ke bagian pengaturan <a class="btn-link" href="#setting">disini</a>. Secara default virtual tour menggunakan html5 sebagai viewer nya, karenanya pengguna seharusnya bisa mengakses virtual tour meski tanpa flash aktif. Untuk dapat merasakan fitur virtual toru secara penuh tetap harus menggunakan flash, maka setelah masuk ke virtual tour lakukkan langkah berikut:
+                    Note* If you're unable to access virtual tour, then please go to configuration section <a class="btn-link" href="#setting">here</a>. Virtual tour make use of html5 engine as viewer by default, so the user should be able to access virtual tour even without flash being enabled. But, to be able to experience the feature of virtual tour entirely, flash is still needed. To enable flash on virtual tour then you need to do this step:
                 </li>
                 <li>
                     <ol>
                         <li>
-                            Klik pada ikon "View site information" (contoh pada browser chrome), panah 1 <img class="img-responsive" src="dist/images/settings/flash_1.png" alt="Site information">
+                            Click on "View site information" icon (example in chrome browser), arrow 1 <img class="img-responsive" src="dist/images/settings/flash_1.png" alt="Site information">
                         </li>
-                        <li>Kemudian klik "Site settings", panah 2.</li>
+                        <li>Then clik "Site settings", arrow 2.</li>
                         <li>
-                            Setelah itu anda akan diarahakan pada halaman Site settings, <img class="img-responsive" src="dist/images/settings/flash_2.png" alt="Flash setting"> pada bagian "Flash" pilih "Ask (default)" menjadi "Allow".
+                            After that you will be redirected to "Site settings" page, <img class="img-responsive" src="dist/images/settings/flash_2.png" alt="Flash setting"> at the "Flash" part choose "Ask (default)" to "Allow".
                         </li>
                         <li>
-                            Terakhir pindah kembali ke tab virtual tour dan anda akan melihat alert seperti dibawah ini kemudian klik "Reload".<img class="img-responsive" src="dist/images/settings/flash_3.png" alt="Site information">
+                            Lastly go back to virtual tour tab and you will see an alert like this and then click on "Reload".<img class="img-responsive" src="dist/images/settings/flash_3.png" alt="Site information">
                         </li>
                     </ol>
                 </li>
                 <li style="padding-top: 20px; padding-bottom: 20px;">
-                    Note* Jika anda menjumpai black screen saat membuka virtual tour, coba matikan adblock extension yang ada di browser.
+                    Note* If you see a black screen when opening virtual tour, please try to disable adblock and other similar extension in your browser.
                 </li>
             </ul>
         </div>
         <div class="col-md-12" id="browser">
             <h2 class="text-left">
                 <strong>
-                    Dukungan Browser
+                    Browser Support
                 </strong>
             </h2>
             <h4>
-                Untuk mengetahui versi browser:
+                To find out the browser version:
             </h4>
             <span>
                 <strong>
@@ -94,11 +94,11 @@
             </span>
             <ol>
                 <li>
-                    Klik menu setting pada browser chrome, pada bagian pojok kanan atas
+                    Click on setting menu in chrome browser, at the right top corner
                     <img class="img-responsive" src="dist/images/settings/chrome_set.png" alt="Setting"/>
                 </li>
                 <li>
-                    Kemudian pilih "Help" dan pilih "About Google Chrome"
+                    Then choose "Help" and click on "About Google Chrome"
                     <img class="img-responsive" style="padding-top: 10px; display: inline-block;" src="dist/images/settings/chrome_set_about.png" alt="Setting"/>
                 </li>
             </ol>
@@ -109,78 +109,78 @@
             </span>
             <ol>
                 <li>
-                    Klik menu setting pada browser firefox, pada bagian pojok kanan atas
+                    Click on setting menu in chrome browser, at the right top corner
                     <img class="img-responsive" src="dist/images/settings/firefox_set.png" alt="Setting"/>
                 </li>
                 <li>
-                    Kemudian pilih "Help" dan pilih "About Mozilla Firefox"
+                    Then choose "Help" and click on "About Mozilla Firefox"
                     <img class="img-responsive" style="padding-top: 10px; display: inline-block;" src="dist/images/settings/firefox_set_help.png" alt="Setting"/>
                     <img class="img-responsive" style="padding-top: 10px; display: inline-block;" src="dist/images/settings/firefox_set_about.png" alt="Setting"/>
                 </li>
             </ol>            
             <h4>
-                Daftar versi browser yang didukung
+                List of supported browser version
             </h4>
             <ol>
                 <li>
-                    Google Chrome (Windows, Mac, Linux) versi 20 keatas
+                    Google Chrome (Windows, Mac, Linux) version 20 above
                 </li>
                 <li>
-                    Mozilla Firefox (Windows, Mac, Linux) versi 10 keatas
+                    Mozilla Firefox (Windows, Mac, Linux) version 10 above
                 </li>
                 <li>
-                    Microsoft Internet Explorer (Windows 7, Windows 8, Windows RT, Windows Phone 8) versi 10 keatas
+                    Microsoft Internet Explorer (Windows 7, Windows 8, Windows RT, Windows Phone 8) version 10 above
                 </li>
                 <li>
-                    Desktop Safari (Windows and Mac), direkomendasikan versi 5.1 atau keatas
+                    Desktop Safari (Windows and Mac), version 5.1 or above recommended
                 </li>
                 <li>
-                    Mobile Safari di perangkat iOS (iPhone, iPad, iPod Touch), direkomendasikan versi 5.1 atau keatas
+                    Mobile Safari in iOS device (iPhone, iPad, iPod Touch), version 5.1 or above recommended
                 </li>
                 <li>
-                    Android Default Browsers, OS yang direkomendasikan Android versi 4.0 keatas
+                    Android Default Browsers, Android OS version 4.0 or above recommended
                 </li>
             </ol>
         </div>
         <div class="col-md-12" id="setting">
             <h2 class="text-left">
                 <strong>
-                    Pengaturan
+                    Configuration
                 </strong>
             </h2>
             <h3>
-                Bagi pengguna Google Chrome
+                For Google Chrome user
                 <img width="50px" src="dist/images/settings/chrome.png" alt="Chrome"/>
             </h3>
             <ol>
                 <li>
-                    Pastikan anda telah menginstall adobe flash player yang bisa di download
+                    Make sure you already have adobe flash player installed in your computer or download
                     <a class="btn-link" href="https://get.adobe.com/flashplayer/">
-                        disini
+                        here
                     </a>
                 </li>
                 <li>
-                    Jika Google Chrome anda "up to date" maka tidak perlu menginstall flash atau bisa juga download Google Chrome 
+                    If you already have latest Google Chrome, then you might not needed to install flash or download latest chrome 
                     <a class="btn-link" href="https://www.google.com/chrome/">
-                        disini
+                        here
                     </a>
                 </li>
             </ol>
             <h3>
-                Bagi pengguna Mozilla Firefox
+                For Mozilla Firefox user
                 <img width="42px" src="dist/images/settings/firefox.png" alt="Firefox"/>
             </h3>
             <ol>
                 <li>
-                    Pastikan anda telah menginstall adobe flash player yang bisa di download
+                    Make sure you already have adobe flash player installed in your computer or download
                     <a class="btn-link" href="https://get.adobe.com/flashplayer/">
-                        disini
+                        here
                     </a>
                 </li>
                 <li>
-                    Jika Mozilla Firefox anda "up to date" maka tidak perlu menginstall flash atau bisa juga download Mozilla Firefox
+                    If you already have latest Mozilla Firefox, then you might not needed to install flash or download latest Mozilla Firefox 
                     <a class="btn-link" href="https://www.mozilla.org/en-US/firefox/new/">
-                        disini
+                        here
                     </a>
                 </li>
             </ol>
