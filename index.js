@@ -4,7 +4,6 @@ const NavLink = window.ReactRouterDOM.NavLink;
 const Link = window.ReactRouterDOM.NavLink;
 const useState = window.React.useState;
 const useEffect  = window.React.useEffect;
-const browserHistory = window.History.createBrowserHistory;
 
 const useFetch = url => {
   const [data, setData] = useState(null);
@@ -46,7 +45,7 @@ function App() {
   });
 
   return (
-    <Router basename='/' history={browserHistory}>
+    <Router basename='/'>
       <nav className={"navbar navbar-default animated fadeIn " + (nav ? 'navbar-fixed-top navbar-off' : '')}>
         <div className="container">
           <div className="navbar-header">
