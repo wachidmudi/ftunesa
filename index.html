@@ -41,19 +41,19 @@
 			 * Redirecting 404 github pages
 			 * https://github.com/csuwildcat/sghpa
 			 */
-			// (function(){
-			//   var redirect = sessionStorage.redirect;
-			//   delete sessionStorage.redirect;
-			//   if (redirect && redirect != location.href) {
-			//     history.replaceState(null, null, redirect);
-			//     // REMOVE THIS - just showing the redirect route in the Console
-			//     console.log('This page was redirected by 404.html, from the route: ', redirect);
-			//   }
-			//   else {
-			//     // REMOVE THIS - just showing the redirect route in the Console
-			//     console.log('This page was loaded directly from the index.html file');
-			//   }
-			// })();
+			(function(){
+			  var redirect = sessionStorage.redirect;
+			  delete sessionStorage.redirect;
+			  if (redirect && redirect != location.href) {
+			    history.replaceState(null, null, redirect);
+			    // REMOVE THIS - just showing the redirect route in the Console
+			    console.log('This page was redirected by 404.html, from the route: ', redirect);
+			  }
+			  else {
+			    // REMOVE THIS - just showing the redirect route in the Console
+			    console.log('This page was loaded directly from the index.html file');
+			  }
+			})();
 		</script>
 	</body>
 </html>
