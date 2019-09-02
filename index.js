@@ -161,8 +161,8 @@ function Home() {
 }
 
 function Panorama() {
-  const pano = useFetch("/dist/data/pano.json");
-  const planet = useFetch("/dist/data/planet.json");
+  const pano = useFetch("dist/data/pano.json");
+  const planet = useFetch("dist/data/planet.json");
   const slug = url => url.substring(0, url.length - 19);
 
   return (
@@ -230,7 +230,7 @@ function Department() {
         </div>
         <div className="col-md-3 col-sm-6 col-sm-push-0 col-xs-8 col-xs-push-2">
           <div className="thumbnail">
-            <h3 className="title">Multimedia Laboratory</h3>
+            <h3 className="title">Multimedia <br/>Laboratory</h3>
             <img className="icon-course img-responsive" src="dist/images/course/mm.png" alt="icon"/>
             <div className="caption">
                   <a href="vtour/tour.html?startscene=scene_Lab_Multimedia" className="btn btn-primary" role="button">Visit</a> 
