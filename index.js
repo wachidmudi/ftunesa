@@ -120,7 +120,7 @@ function App() {
 function Home() {
   return (
     <div>
-      <img className="wrapper animated fadeIn" src="/dist/images/bg.png" alt="Backgorund"/>
+      <img className="wrapper animated fadeIn" src="dist/images/bg.png" alt="Backgorund"/>
       <div className="jumbotron">
           <div className="container">
               <div className="row">
