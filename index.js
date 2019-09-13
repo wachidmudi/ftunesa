@@ -67,22 +67,22 @@ function App() {
           <div className="collapse navbar-collapse" id="navbar-collapse">
             <ul className={"nav navbar-nav navbar-right " + (nav ? 'navbar-virtual' : '')}>
               <li>
-                <NavLink activeClassName="active" isActive={classEvent} exact={true} to="/">Home</NavLink>
+                <NavLink className={nav ? 'active' : ''} isActive={classEvent} exact={true} to="/">Home</NavLink>
               </li>
               <li>
-                <NavLink activeClassName="active" isActive={classEvent} to="/panorama">Panorama</NavLink>
+                <NavLink activeClassName={"active"} to="/panorama">Panorama</NavLink>
               </li>
               <li>
-                <NavLink activeClassName="active" isActive={classEvent} to="/department">Department</NavLink>
+                <NavLink activeClassName={"active"} to="/department">Department</NavLink>
               </li>
               <li>
-                <NavLink activeClassName="active" isActive={classEvent} to="/guide">Guide</NavLink>
+                <NavLink activeClassName={"active"} to="/guide">Guide</NavLink>
               </li>
               <li>
-                <NavLink activeClassName="active" isActive={classEvent} to="/stats_poll">Stats & Poll</NavLink>
+                <NavLink activeClassName={"active"} to="/stats_poll">Stats & Poll</NavLink>
               </li>
               <li>
-                <NavLink activeClassName="active" isActive={classEvent} to="/about">About</NavLink>
+                <NavLink activeClassName={"active"} to="/about">About</NavLink>
               </li>
             </ul>
 
